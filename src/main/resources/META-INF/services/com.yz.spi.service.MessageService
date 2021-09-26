@@ -1,0 +1,2 @@
+com.yz.spi.service.impl.ChatMessageImpl
+com.yz.spi.service.impl.GreetingMessageServiceImpl
